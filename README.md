@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm João 👋
 
-<!--
-**joao-victor-castro/joao-victor-castro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Development student passionate about building practical web applications and solving complex logic problems.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** PHP, JavaScript, Python, SQL
+- **Web & DB:** HTML5, CSS3, MySQL
+- **Tools:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Project
+- 📑 **School Order Management System** — Full-stack PHP/MySQL app built during my software development internship.
+
+📫 How to reach me: joaobrasil2109@gmail.com | [LinkedIn]www.linkedin.com/in/joão-castro-6b2aa63a8
